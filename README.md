@@ -1,2 +1,3 @@
 # lru-cache
-least recently used cache implementation using Go
+
+**L**east **R**ecently **U**sed cache implementation using Go.
